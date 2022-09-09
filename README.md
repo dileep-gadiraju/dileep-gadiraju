@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dileep Gadiraju
 - 👀 I’m interested in solving complex business problems with Technology.
-- 🌱 I’m currently learning Akka , gRPC, computer vision, AI/ML.
+- Facinated to lead projects with Computer vision, AI/ML,DL usecases.
+- 🌱 I’m currently learning clearml,mlops,Akka, gRPC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ explore.dileepkumar@gmail.com
 
