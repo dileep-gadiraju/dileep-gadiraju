@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dileep Gadiraju
 - 👀 I’m interested in solving complex business problems with Technology.
 - Facinated to lead projects with Computer vision, AI/ML,DL usecases.
-- Exploring clearml (MLOps)
+- Exploring clearml (MLOps), Point Cloud
 - 🌱 I’m currently learning clearml,mlops,Akka, gRPC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ explore.dileepkumar@gmail.com
