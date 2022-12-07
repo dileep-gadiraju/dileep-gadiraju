@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dileep Gadiraju
 - 👀 I’m interested in solving complex business problems with Technology.
 - Facinated to lead projects with Computer vision, AI/ML,DL usecases.
-- 🌱 I’m currently exploring mlops,Point Cloud technologies.
+- 🌱 I’m currently exploring #mlops,#PointCloud Technologies.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ explore.dileepkumar@gmail.com
 
